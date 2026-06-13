@@ -87,8 +87,6 @@ scheduling-puj/
 ├── README.md
 ├── article/
 │   └── articulo_academico_corregido.md   ← artículo académico completo
-├── docs/
-│   └── literatura_referencias.md          ← tabla comparativa de 12 referencias verificadas
 ├── presentation/
 │   └── scheduling_puj.pptx                ← presentación 20 slides
 └── scripts/
@@ -107,7 +105,7 @@ scheduling-puj/
 4. Rappos, E. et al. (2022). MIP para UCTP — 2.° lugar ITC-2019. *J. Scheduling*, 25, 391–404.
 5. Ceschia, S., Di Gaspero, L. & Schaerf, A. (2023). Educational Timetabling. *EJOR*, 308(1), 1–18.
 
-Lista completa de 12 referencias verificadas → [`docs/literatura_referencias.md`](docs/literatura_referencias.md)
+Lista completa de 12 referencias verificadas → [`article/articulo_academico_corregido.md`](article/articulo_academico_corregido.md)
 
 ---
 

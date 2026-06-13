@@ -111,7 +111,7 @@ Lista completa de 12 referencias verificadas → [`article/articulo_academico_co
 
 ## Autor
 
-**Edgar** — Operaciones Analytics & Business Performance | O2C · BI · Transformación Operativa LATAM  
+**Edgar Ayala** — Operaciones Analytics & Business Performance | O2C · BI · Transformación Operativa LATAM  
 Maestría en Business Intelligence & Analytics — Pontificia Universidad Javeriana, Bogotá  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/eoar95)

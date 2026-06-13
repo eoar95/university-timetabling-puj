@@ -83,7 +83,7 @@ min f(x) = 1·S1 + 2·S2 + 3·S3 + 4·S4 + 5·S5 + 6·S6
 ## Estructura del repositorio
 
 ```
-scheduling-puj/
+university-timetabling-puj/
 ├── README.md
 ├── article/
 │   └── articulo_academico_corregido.md   ← artículo académico completo
